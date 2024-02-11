@@ -1,7 +1,7 @@
 # ModaHome
 
 This is a static landing page for a Furniture store.
-In this store the customer can see the different furnitures and other options avialable in the store.
+In this webpage the customer can see the different furnitures and other options avialable in the store.
 They see the contact details also the address of the store. I have used microsoft Language studio, bot service, static web apps.
 
 website link (Demo link) : https://gentle-coast-00f5db610.4.azurestaticapps.net
