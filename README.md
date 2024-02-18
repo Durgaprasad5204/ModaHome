@@ -2,7 +2,7 @@
 
 This is a static landing page for a Furniture store.
 In this webpage the customer can see the different furnitures and other options avialable in the store.
-They see the contact details also the address of the store. I have used microsoft Language studio, bot service, static web apps.
+They see the contact details also the address of the store. I have used microsoft Language studio, Bot service to create the bot which will answer customers questions and deployed using  static web apps.
 
 website link (Demo link) : https://gentle-coast-00f5db610.4.azurestaticapps.net
 
